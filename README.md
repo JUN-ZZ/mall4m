@@ -14,11 +14,11 @@
 
 ## 项目链接
 
-java后台：https://gitee.com/gz-yami/mall4j
+java后台：https://github.com/gz-yami/mall4j
 
-vue后台：https://gitee.com/gz-yami/mall4v
+vue后台：https://github.com/gz-yami/mall4v
 
-小程序：https://gitee.com/gz-yami/mall4m
+小程序：https://github.com/gz-yami/mall4m
 
 
 
