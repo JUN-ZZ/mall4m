@@ -36,19 +36,7 @@ vue后台：https://github.com/gz-yami/mall4v
 
 ## 相关截图
 
-![首页](https://gitee.com/gz-yami/mall4m/raw/master/screenshot/index.jpg)
-
-![商品详情](https://gitee.com/gz-yami/mall4m/raw/master/screenshot/prodInfo.jpg)
-
-![购物车](https://gitee.com/gz-yami/mall4m/raw/master/screenshot/shopCart.jpg)
-
-![sku](https://gitee.com/gz-yami/mall4m/raw/master/screenshot/sku.jpg)
-
-![我的](https://gitee.com/gz-yami/mall4m/raw/master/screenshot/my.jpg)
-
-
-
-
+![小程序截图](https://images.gitee.com/uploads/images/2019/0706/085234_4eb7509b_5094767.jpeg "小程序截图")
 
 
 
